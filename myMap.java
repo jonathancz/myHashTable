@@ -1,6 +1,10 @@
 /**
 	Implementation of own Hash Table with Separate Chaining
 	in Java
+
+	Geeks for Geeks explanation of Hash
+	https://www.geeksforgeeks.org/implementing-our-own-hash-table-with-separate-chaining-in-java/
+
 **/
 package HashMaps;
 import java.util.ArrayList;
